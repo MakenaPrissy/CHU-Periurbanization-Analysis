@@ -120,6 +120,10 @@ If you use this code, please cite the manuscript (citation details to be added u
 
 ---
 
-## License
+## License and data use
+
+The code in this repository is licensed under the MIT License. See the `LICENSE` file for details.
+
+Data files are included only where sharing is permitted. Some data associated with this project may be subject to access controls, institutional permissions, or ethical restrictions. Reuse of data is the responsibility of the user and should comply with the relevant data governance requirements.  
 
 MIT License. See [LICENSE](LICENSE).
