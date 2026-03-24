@@ -113,11 +113,13 @@ jupyter notebook notebooks/analysis_walkthrough.ipynb
 
 ---
 
-## Citation
+## Citation and archive
 
-If you use this code, please cite the manuscript (citation details to be added upon publication).
+The first archived release of this repository is available on Zenodo:
 
----
+DOI: https://doi.org/10.5281/zenodo.19200614
+
+If you use this repository, please cite the Zenodo record associated with the release.
 
 ## License and data use
 
